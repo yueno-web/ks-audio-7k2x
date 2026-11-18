@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>決算スコア音声版</title>
+    <link>https://yueno-web.github.io/ks-audio-7k2x/</link>
+    <language>ja</language>
+    <description>毎日の決算スコアレポートの音声版。自分専用の非公開フィード。</description>
+    <itunes:author>Puze</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>決算スコア 2026-11-16（続き）ネットプロテクションズHD</title>
+      <description>11月16日発表分の続き。ネットプロテクションズHD（7383）7.5/10。</description>
+      <pubDate>Mon, 16 Nov 2026 23:10:00 -0000</pubDate>
+      <guid isPermaLink="false">kessan-score-2026-11-16-2-1.m4a</guid>
+      <enclosure url="https://yueno-web.github.io/ks-audio-7k2x/episodes/kessan-score-2026-11-16-2-1.m4a" length="12050467" type="audio/mp4"/>
+      <itunes:duration>0:16:27</itunes:duration>
+    </item>
+    <item>
+      <title>決算スコア 2026-11-16（2）</title>
+      <description>11月16日発表分の後半5社。ロイヤルHD、あいHD、KeePer技研、オロ、マネジメントソリューションズ。</description>
+      <pubDate>Mon, 16 Nov 2026 11:40:00 -0000</pubDate>
+      <guid isPermaLink="false">kessan-score-2026-11-16-2.m4a</guid>
+      <enclosure url="https://yueno-web.github.io/ks-audio-7k2x/episodes/kessan-score-2026-11-16-2.m4a" length="12658867" type="audio/mp4"/>
+      <itunes:duration>0:17:17</itunes:duration>
+    </item>
+    <item>
+      <title>決算スコア 2026-11-16（1）</title>
+      <description>11月16日発表分の前半5社。電通グループ、TOYO TIRE、エア・ウォーター、キュービーネット、サンウェルズ。</description>
+      <pubDate>Mon, 16 Nov 2026 11:39:00 -0000</pubDate>
+      <guid isPermaLink="false">kessan-score-2026-11-16-1.m4a</guid>
+      <enclosure url="https://yueno-web.github.io/ks-audio-7k2x/episodes/kessan-score-2026-11-16-1.m4a" length="14458711" type="audio/mp4"/>
+      <itunes:duration>0:19:45</itunes:duration>
+    </item>
+    <item>
+      <title>決算スコア 平田機工 詳細分析（2026-11-13発表）</title>
+      <description>平田機工（6258）の中間決算を詳細分析。9.2/10。</description>
+      <pubDate>Sun, 15 Nov 2026 12:45:00 -0000</pubDate>
+      <guid isPermaLink="false">kessan-score-2026-11-13-hirata.m4a</guid>
+      <enclosure url="https://yueno-web.github.io/ks-audio-7k2x/episodes/kessan-score-2026-11-13-hirata.m4a" length="14541555" type="audio/mp4"/>
+      <itunes:duration>0:19:52</itunes:duration>
+    </item>
+    <item>
+      <title>決算スコア 試し分析（2026-11-15）</title>
+      <description>試し分析3社の音声版。三菱UFJ、大林組、三越伊勢丹HD。</description>
+      <pubDate>Sun, 15 Nov 2026 11:45:00 -0000</pubDate>
+      <guid isPermaLink="false">kessan-score-notebooklm.m4a</guid>
+      <enclosure url="https://yueno-web.github.io/ks-audio-7k2x/episodes/kessan-score-notebooklm.m4a" length="11673780" type="audio/mp4"/>
+      <itunes:duration>0:15:56</itunes:duration>
+    </item>
+  </channel>
+</rss>
